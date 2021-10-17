@@ -5,6 +5,7 @@
 I'm Kin 😎 🙈
 - 🧑🏻‍💻 Currently: MPhil MATH (Data Science) Student at HKUST
 - 🧑🏻‍💻 Previously:  BSc Data Science & Computer Science Student at HKUST
+- 🧑🏻‍💻 Previously:  HKDSE ICT 5**
 <!--
 **kinkinava/kinkinava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +28,16 @@ HKUST
 - DSAA5013  - Advanced Machine Learning
 - MATH6450I - Reinforcement Learning
 
+<h2>🔭 I’m currently working on :</h2>
+
+- Doing a research in BERT / Knowledge Graph
+- Doing a research in Deep Q Learning
+- Doing a research in Self-Attention in Computer Vision
+
+- Taking some courses in ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
+
+
+
 <h2>💻 Web created by ME</h2>
 
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Material](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white) 
@@ -44,14 +55,6 @@ Members only
 - Study Pathway Planner: [Study Planner](https://studyplanner-sci-dev.ust.hk/) 
 
 and more...
-
-<h2>🔭 I’m currently working on :</h2>
-
-
-
-
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
-
 
 
 
