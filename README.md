@@ -5,7 +5,6 @@
 I'm Kin 😎 🙈
 - 🧑🏻‍💻 Currently: MPhil MATH (Data Science) Student at HKUST
 - 🧑🏻‍💻 Previously:  BSc Data Science & Computer Science Student at HKUST
-- 🧑🏻‍💻 Previously:  HKDSE ICT 5**
 <!--
 **kinkinava/kinkinava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
