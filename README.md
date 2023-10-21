@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 I'm Kin 😎 🙈
-- 🧑🏻‍💻 Currently: MPhil MATH (Data Science)  at HKUST
-- 🧑🏻‍💻 Previously:  BSc Data Science & Computer Science  at HKUST
+- 🧑🏻‍💻 Currently: Web / AI / Cloud Developer
+- 🧑🏻‍💻 Previously: MPhil & BSc Data Science & Computer Science  at HKUST
 <!--
 **kinkinava/kinkinava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,42 +24,10 @@ Here are some ideas to get you started:
 
 <h2>🔭 I’m currently mainly working on :</h2>
 
-- Deep Learning in Computer Vision
-- Reinforcement Learning 
-- Smart Contract Development
+- Security
+- Web Development 
+- Deep Learning
 
-
-
-<h2>🤖 Machine Learning Project:</h2>
-
-Selected ML Projects:
-
-<h3>Deep Learning in Industrial Image Analysis 🖼️ 🧑‍🏭</h3>
-
-- **Multi-task learning:** Combine image-level and pixel-level label for training 
-- **Label-efficient Learning**: Handle Noisy Label and Utilise LARGE amount unlabelled data
-- **Unsupervised Anomaly Detection**: Using GAN and Diffusion Model to generate anomaly map
-- **Domain Generalization**: Handle distribution shift for different production batches
-
-
-<h3>Deep Learning in Medical Image Analysis 🖼️ 🧠</h3>
-
-- **Multi-Modal Learning**: Combine different modality such as X-rays, and MRI
-
-
-
-<h3>Deep Learning in NLP for Education 📝</h3>
-
-- Application of Self-Directed Learning for Student with ChatGPT
-- Topic Classification / Difficulty Analysis for Exam Question with BERT
-- Question-Answering for Multiple-Choise Question with GPT-2
-
-<h3>Reinforcement Learning </h3>
-
-- Playing with different RL algorithm with OpenAI Gym
-- Creating my own RL Agent for Trading :P
-
-And more...
 
 
 <h2>💻 Web created by ME</h2>
