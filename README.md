@@ -47,21 +47,26 @@ Products currently working on
 
 and more...
 
-<h2>🌱 I’m currently learning these in 2025:</h2>
+<h2>🌱 I’ve obtained the following certificates :</h2>
+
+<a href="https://www.credly.com/badges/d865981e-fd91-4b7d-829d-921a5ccb4aae"><img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="drawing" width="100"/></a>
+<a href="https://www.credly.com/badges/2da6ff3f-d6c2-4405-9665-045eabe552b4"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="drawing" width="100"/></a>
+<a href="https://www.credly.com/badges/f2177aad-7718-492b-8bf2-c3da3a971001"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="drawing" width="100"/></a>
+<a href="https://www.credly.com/badges/fa800d21-7bd2-4d8f-9ada-15d34c01abc0"><img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="drawing" width="100"/></a>
 
 - AWS Certified Security - Specialty (AWS-SCS)
+- AWS Certified Solutions Architect - Associate (AWS-SAA)
+- AWS Certified Cloud Practitioner (AWS-CLF)
+- Certified in Cybersecurity Certification (CC)
+
+<h2>🌱 I’m currently learning these in 2025:</h2>
+
 - AWS Certified Solutions Architect - Professional (AWS-SAP)
 - Microsoft Certified: Azure Security Engineer Associate (AZ-500)
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Certified Cloud Security Professional (CCSP)
 - Certified Information Systems Security Professional (CISSP)
 - Certified Kubernetes Administrator (CKA)
-
-<h2>🌱 I’ve obtained the following certificates :</h2>
-
-- AWS Certified Cloud Practitioner(AWS-CLF)
-- AWS Certified Solutions Architect - Associate (AWS-SAA)
-- Certified in Cybersecurity Certification (CC)
 
 <h2>💻 Web created by ME when I was Student</h2>
 
