@@ -5,11 +5,13 @@
 
 I'm Kin 😎 🙈
 
-- 🧑🏻‍💻 Currently: Web / Mobile / AI / Cloud Developer
-- 🧑🏻‍💻 Previously: MPhil & BSc Data Science & Computer Science at HKUST
-- 🧑🏻‍💻 AWS Certified Solutions Architect – Associate
-<!--
-**kinkinava/kinkinava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏻‍💻 Currently: Cloud Architect / Developer + Web / Mobile / AI / DevOps Developer + Security + ...
+- 🧑🏻‍💻 Previously: Data Scientist
+- 🧑🏻‍💻 Previously: MPhil Math (Machine Learning) @ HKUST
+- 🧑🏻‍💻 Previously: BSc Data Science & Computer Science @ HKUST
+  <!-- - 🧑🏻‍💻 AWS Certified Solutions Architect – Associate -->
+  <!--
+  **kinkinava/kinkinava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,21 +31,23 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=2361DAFB)
 ![Next.JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=2361DAFB)
 
+- Bug Bounty
 - Cloud Security
-- Cloud Architecture Design
+- Cloud Architecture
 - AI Applications
 - Mobile Apps Development
 - Web Development
-- CMS Development with Strapi
+- CMS Development with Strapi / WordPress
 - Custom System Development
 
-Products currently working on
+Products currently (mainly) working on
 
 - AI Application for Education
-- Forum Apps Development
-- eShop System Development
 - Learning Management System Development
-- Dating Apps Development
+  <!-- - Forum Apps Development -->
+  <!-- - eShop System Development -->
+
+<!-- - Dating Apps Development -->
 
 and more...
 
@@ -56,20 +60,22 @@ and more...
 <a href="https://www.credly.com/badges/fa800d21-7bd2-4d8f-9ada-15d34c01abc0"><img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="drawing" width="100"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/WingKinWong-7842/AD742E1A8780D13B?sharingId=330696D415AD85E8"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="drawing" width="100"/></a>
 
+<!--
 - AWS Certified Solutions Architect - Professional (AWS-SAP)
 - AWS Certified Security - Specialty (AWS-SCS)
 - AWS Certified Solutions Architect - Associate (AWS-SAA)
 - AWS Certified Cloud Practitioner (AWS-CLF)
 - Certified in Cybersecurity Certification (CC)
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-
+- Microsoft Certified: Azure Administrator Associate (AZ-104) -->
+<!--
 <h2>🌱 I’m currently learning these in 2025:</h2>
+
 
 - Microsoft Certified: Azure Security Engineer Associate (AZ-500)
 - Certified Cloud Security Professional (CCSP)
 - Certified Information Systems Security Professional (CISSP)
-- Certified Kubernetes Administrator (CKA)
-
+- Certified Kubernetes Administrator (CKA) -->
+<!--
 <h2>💻 Web created by ME when I was Student</h2>
 
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Material](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white)
@@ -87,7 +93,7 @@ Members only
 - Lucky Draw Site
 - Event Registration System
 
-and more...
+and more... -->
 
 <h2>🕹️ Skills:</h2>
 
