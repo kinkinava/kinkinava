@@ -58,6 +58,7 @@ and more...
 <a href="https://www.credly.com/badges/2da6ff3f-d6c2-4405-9665-045eabe552b4"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="drawing" width="100"/></a>
 <a href="https://www.credly.com/badges/f2177aad-7718-492b-8bf2-c3da3a971001"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="drawing" width="100"/></a>
 <a href="https://www.credly.com/badges/fa800d21-7bd2-4d8f-9ada-15d34c01abc0"><img src="https://images.credly.com/size/680x680/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="drawing" width="100"/></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/WingKinWong-7842/F18F37C03909B8C1?sharingId=330696D415AD85E8"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="drawing" width="100"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/WingKinWong-7842/AD742E1A8780D13B?sharingId=330696D415AD85E8"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="drawing" width="100"/></a>
 <a href="https://www.credly.com/badges/9345ac93-0d0d-42a8-905b-3cbe4f8054f0/public_url"><img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="drawing" width="100"/></a>
 
